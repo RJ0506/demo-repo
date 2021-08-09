@@ -6,3 +6,7 @@ Another description just got added
 ## Subheader
 
 hehehehehe....
+
+## Local dev
+
+1. Open index.html hehehe. 
